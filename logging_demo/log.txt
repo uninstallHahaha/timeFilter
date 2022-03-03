@@ -1,0 +1,6 @@
+2021-07-02 19:47:29,071 - __main__ - INFO - Start print log
+2021-07-02 19:47:29,071 - __main__ - WARNING - Something maybe fail.
+2021-07-02 19:47:29,072 - __main__ - INFO - Finish
+2021-07-02 19:53:32,785 - __main__ - INFO - Start print log
+2021-07-02 19:53:32,785 - __main__ - WARNING - Something maybe fail.
+2021-07-02 19:53:32,785 - __main__ - INFO - Finish

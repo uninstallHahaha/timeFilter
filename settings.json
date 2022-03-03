@@ -1,0 +1,11 @@
+{
+    "file_name" : "5.4前腿-mini.xlsx",
+    "range_file_name" : "5.4前后腿时间筛选表.xlsx",
+    "time_column_num" : 2,
+    "mode": "range",
+    "value1" : "10:20:00.000",
+    "value2" : "10:20:00.000",
+    "mem_save": 0,
+    "error_range": 20,
+    "slice_bucket": 10000
+}

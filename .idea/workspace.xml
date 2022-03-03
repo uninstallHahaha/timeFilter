@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22859c09-2fbc-4c31-99c8-cbd472a8a443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/git" />
+  </component>
+  <component name="JupyterTrust" id="0d6204c9-0342-445d-93e4-e3e2315d4e58" />
+  <component name="ProjectId" id="1tnveOBLysMaI0R1pbhEiYQyR8X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pose-transfer/Projs/u-net-base-pose-gan/pose-gan" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/openpyxl_demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.TimeFilter">
+    <configuration name="StandarWindow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="timeFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5_demo/StandarWindow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TimeFilter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="timeFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TimeFilter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="timeFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5_demo/components" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5_demo/components/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyqt5demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="timeFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5_demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5_demo/pyqt5demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ttest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="timeFilter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ttest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ttest/ttest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TimeFilter" />
+        <item itemvalue="Python.pyqt5demo" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.StandarWindow" />
+        <item itemvalue="Python.ttest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22859c09-2fbc-4c31-99c8-cbd472a8a443" name="Default Changelist" comment="" />
+      <created>1623417761504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623417761504</updated>
+      <workItem from="1623417763168" duration="2474000" />
+      <workItem from="1623497087913" duration="4753000" />
+      <workItem from="1623916853437" duration="27000" />
+      <workItem from="1624433379728" duration="9802000" />
+      <workItem from="1624445684232" duration="854000" />
+      <workItem from="1624593074048" duration="8015000" />
+      <workItem from="1624711997602" duration="2862000" />
+      <workItem from="1625054516278" duration="291000" />
+      <workItem from="1625056591778" duration="2111000" />
+      <workItem from="1625120983655" duration="819000" />
+      <workItem from="1625206147026" duration="19422000" />
+      <workItem from="1625294507470" duration="9984000" />
+      <workItem from="1625469866438" duration="9835000" />
+      <workItem from="1625572043086" duration="3062000" />
+      <workItem from="1625627244892" duration="24814000" />
+      <workItem from="1625733519827" duration="11877000" />
+      <workItem from="1626684869455" duration="1311000" />
+      <workItem from="1626747721459" duration="717000" />
+      <workItem from="1626749546562" duration="782000" />
+      <workItem from="1626750544990" duration="848000" />
+      <workItem from="1626760290497" duration="136000" />
+      <workItem from="1627293616220" duration="2792000" />
+      <workItem from="1627784204714" duration="3849000" />
+      <workItem from="1628233225346" duration="1296000" />
+      <workItem from="1628235608116" duration="560000" />
+      <workItem from="1628247186881" duration="798000" />
+      <workItem from="1628248534926" duration="4015000" />
+      <workItem from="1628253943071" duration="4677000" />
+      <workItem from="1628404659144" duration="5632000" />
+      <workItem from="1628486280683" duration="4319000" />
+      <workItem from="1628492085286" duration="284000" />
+      <workItem from="1628493286788" duration="4299000" />
+      <workItem from="1628497922150" duration="166000" />
+      <workItem from="1628590965319" duration="579000" />
+      <workItem from="1628993645255" duration="17440000" />
+      <workItem from="1629616815734" duration="609000" />
+      <workItem from="1630474115563" duration="4109000" />
+      <workItem from="1630478262485" duration="15765000" />
+      <workItem from="1630716387969" duration="1216000" />
+      <workItem from="1631976182995" duration="878000" />
+      <workItem from="1632013024337" duration="144000" />
+      <workItem from="1633403893655" duration="822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="27" width="1125" height="737" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625213499105">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="110" y="27" width="1125" height="737" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1625213499105" />
+    <state x="416" y="144" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627295480473">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="144" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1627295480473" />
+    <state x="337" y="27" width="682" height="737" key="#pyqt5demo" timestamp="1630563864610">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="337" y="27" width="682" height="737" key="#pyqt5demo/0.27.1366.741@0.27.1366.741" timestamp="1630563864610" />
+    <state x="316" y="347" width="896" height="333" key="#xdebugger.evaluate" timestamp="1632013088593">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="316" y="347" width="896" height="333" key="#xdebugger.evaluate/0.27.1366.741@0.27.1366.741" timestamp="1632013088593" />
+    <state width="1364" height="582" key="DebuggerActiveHint" timestamp="1630476951177">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1364" height="582" key="DebuggerActiveHint/0.27.1366.741@0.27.1366.741" timestamp="1630476951177" />
+    <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl" timestamp="1633404738289">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="480" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1633404738289" />
+    <state width="1312" height="175" key="GridCell.Tab.0.bottom" timestamp="1632013169493">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1632013169493" />
+    <state width="1312" height="175" key="GridCell.Tab.0.center" timestamp="1632013169492">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1632013169492" />
+    <state width="1312" height="175" key="GridCell.Tab.0.left" timestamp="1632013169492">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1632013169492" />
+    <state width="1312" height="175" key="GridCell.Tab.0.right" timestamp="1632013169493">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1632013169493" />
+    <state width="1312" height="175" key="GridCell.Tab.1.bottom" timestamp="1632013169490">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1632013169490" />
+    <state width="1312" height="175" key="GridCell.Tab.1.center" timestamp="1632013169490">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1632013169490" />
+    <state width="1312" height="175" key="GridCell.Tab.1.left" timestamp="1632013169489">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1632013169489" />
+    <state width="1312" height="175" key="GridCell.Tab.1.right" timestamp="1632013169490">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1632013169490" />
+    <state width="1312" height="175" key="GridCell.Tab.2.bottom" timestamp="1632013169492">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.2.bottom/0.27.1366.741@0.27.1366.741" timestamp="1632013169492" />
+    <state width="1312" height="175" key="GridCell.Tab.2.center" timestamp="1632013169491">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.2.center/0.27.1366.741@0.27.1366.741" timestamp="1632013169491" />
+    <state width="1312" height="175" key="GridCell.Tab.2.left" timestamp="1632013169491">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.2.left/0.27.1366.741@0.27.1366.741" timestamp="1632013169491" />
+    <state width="1312" height="175" key="GridCell.Tab.2.right" timestamp="1632013169491">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1312" height="175" key="GridCell.Tab.2.right/0.27.1366.741@0.27.1366.741" timestamp="1632013169491" />
+    <state x="164" y="32" key="SettingsEditor" timestamp="1628993791769">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="164" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1628993791769" />
+    <state x="210" y="58" width="936" height="674" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1625647688002">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="210" y="58" width="936" height="674" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1366.741@0.27.1366.741" timestamp="1625647688002" />
+    <state x="375" y="83" width="615" height="628" key="find.popup" timestamp="1628495016057">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="375" y="83" width="615" height="628" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1628495016057" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1625648509379">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1625648509379" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fast_sort/main.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/openpyxl_demo/demo.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/matplotlib_demo/demo.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/TimeFilter.py</url>
+          <line>567</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="sheet_loc" />
+        <watch expression="min_limit" />
+        <watch expression="max_limit" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/timeFilter$try_demo.coverage" NAME="try_demo Coverage Results" MODIFIED="1627295483192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/try_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$main.coverage" NAME="main Coverage Results" MODIFIED="1630560451782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5_demo/components" />
+    <SUITE FILE_PATH="coverage/timeFilter$test.coverage" NAME="test Coverage Results" MODIFIED="1625480316870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fast_sort_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$monkey800.coverage" NAME="monkey800 Coverage Results" MODIFIED="1625636149621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/timeFilter$pyqt5demo.coverage" NAME="pyqt5demo Coverage Results" MODIFIED="1630568118272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$_typing.coverage" NAME="_typing Coverage Results" MODIFIED="1624714172565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/lib/python3.8/site-packages/pandas" />
+    <SUITE FILE_PATH="coverage/timeFilter$StandarWindow.coverage" NAME="StandarWindow Coverage Results" MODIFIED="1630478601281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1628250065731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/matplotlib_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$TimeFilter.coverage" NAME="TimeFilter Coverage Results" MODIFIED="1632013051110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/timeFilter$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1625471696596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/coroutine_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$demo.coverage" NAME="demo Coverage Results" MODIFIED="1625734180859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/openpyxl_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1625226812440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/logging_demo" />
+    <SUITE FILE_PATH="coverage/timeFilter$ttest.coverage" NAME="ttest Coverage Results" MODIFIED="1628496766185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ttest" />
+  </component>
+</project>
